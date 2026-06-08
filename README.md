@@ -1,9 +1,7 @@
 # smart-medicine-box
-IoT-based smart medicine box using ESP32, RTC, WiFi, and GSM for automated medication reminders, notifications, and emergency alerts.
+IoT-based smart medicine box using ESP32, RTC, WiFi, and GSM for automated medication reminders, notifications, and emergency alerts
 
-# Smart Medicine Box
-
-An IoT-based Smart Medicine Box designed to help users take medicines on time through multi-stage reminders and emergency alerts.
+Designed to help users take medicines on time through multi-stage reminders and emergency alerts.
 
 ## Features
 
